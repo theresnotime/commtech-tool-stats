@@ -1,0 +1,10 @@
+{
+    "CopyPatrol": {
+        "api": "https://toolviews.toolforge.org/api/v1/tool/CopyPatrol/daily/2021-01-01/2022-01-01",
+        "total": 376511
+    },
+    "SVG Translate": {
+        "api": "https://toolviews.toolforge.org/api/v1/tool/svgtranslate/daily/2021-01-01/2022-01-01",
+        "total": 166853
+    }
+}

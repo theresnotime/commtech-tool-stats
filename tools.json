@@ -1,0 +1,155 @@
+{
+    "Popular pages bot": {
+        "name": "Popular pages bot",
+        "homepage": "https://meta.wikimedia.org/wiki/Community_Tech/Popular_pages_bot",
+        "deployed on": "VPS",
+        "views": null,
+        "maintained by": "Community Tech"
+    },
+    "CopyPatrol": {
+        "name": "CopyPatrol",
+        "homepage": "https://meta.wikimedia.org/wiki/CopyPatrol",
+        "deployed on": "Toolforge",
+        "views": {
+            "toolviews": "https://toolviews.toolforge.org/api/v1/tool/CopyPatrol/"
+        },
+        "maintained by": "Community Tech"
+    },
+    "Pageviews Analysis": {
+        "name": "Pageviews Analysis",
+        "homepage": "https://meta.wikimedia.org/wiki/Pageviews_Analysis",
+        "deployed on": "VPS",
+        "views": null,
+        "maintained by": "Community Tech"
+    },
+    "XTools": {
+        "name": "XTools",
+        "homepage": "https://xtools.wmflabs.org/",
+        "deployed on": "VPS",
+        "views": {
+            "meta": "https://xtools.wmflabs.org/meta/"
+        },
+        "maintained by": "Community Tech"
+    },
+    "Global Preferences": {
+        "name": "Global Preferences",
+        "homepage": "https://www.mediawiki.org/wiki/Extension:GlobalPreferences",
+        "deployed on": "Production",
+        "views": null,
+        "maintained by": "Community Tech"
+    },
+    "CodeMirror": {
+        "name": "CodeMirror",
+        "homepage": "https://meta.wikimedia.org/wiki/Community_Tech/Wikitext_editor_syntax_highlighting",
+        "deployed on": "Production",
+        "views": null,
+        "maintained by": "Community Tech"
+    },
+    "LoginNotify": {
+        "name": "LoginNotify",
+        "homepage": "https://meta.wikimedia.org/wiki/Community_Tech/LoginNotify",
+        "deployed on": "Production",
+        "views": null,
+        "maintained by": "Community Tech"
+    },
+    "IA Upload": {
+        "name": "IA Upload",
+        "homepage": "https://iw.toolforge.org/ia-upload",
+        "deployed on": "VPS",
+        "views": null,
+        "maintained by": "Community Tech"
+    },
+    "Database Reports": {
+        "name": "Database Reports",
+        "homepage": "https://en.wikipedia.org/wiki/en:Wikipedia:Database_reports",
+        "deployed on": "Toolforge",
+        "views": null,
+        "maintained by": "Community Tech"
+    },
+    "Numerical Sorting": {
+        "name": "Numerical Sorting",
+        "homepage": "https://meta.wikimedia.org/wiki/Community_Tech/Numerical_sorting_in_categories",
+        "deployed on": "Production",
+        "views": null,
+        "maintained by": "Community Tech"
+    },
+    "Page Assessments": {
+        "name": "Page Assessments",
+        "homepage": "https://www.mediawiki.org/wiki/Extension:PageAssessments",
+        "deployed on": "Production",
+        "views": null,
+        "maintained by": "Community Tech"
+    },
+    "SVG Translate": {
+        "name": "SVG Translate",
+        "homepage": "https://iw.toolforge.org/svgtranslate/",
+        "deployed on": "Toolforge",
+        "views": {
+            "toolviews": "https://toolviews.toolforge.org/api/v1/tool/svgtranslate/"
+        },
+        "maintained by": "Community Tech"
+    },
+    "Template Wizard": {
+        "name": "Template Wizard",
+        "homepage": "https://www.mediawiki.org/wiki/Extension:TemplateWizard",
+        "deployed on": "Production",
+        "views": null,
+        "maintained by": "Community Tech"
+    },
+    "Commons deletion bot": {
+        "name": "Commons deletion bot",
+        "homepage": "https://meta.wikimedia.org/wiki/Community_Tech/Commons_deletion_notification_bot",
+        "deployed on": "Toolforge",
+        "views": null,
+        "maintained by": "Community Tech"
+    },
+    "Event metrics": {
+        "name": "Event metrics",
+        "homepage": "https://eventmetrics.wmflabs.org/",
+        "deployed on": "VPS",
+        "views": null,
+        "maintained by": "Community Tech"
+    },
+    "Wikisouce Export": {
+        "name": "Wikisouce Export",
+        "homepage": "https://meta.wikimedia.org/wiki/Community_Tech/Ebook_Export_Improvement",
+        "deployed on": "VPS",
+        "views": null,
+        "maintained by": "Community Tech"
+    },
+    "WikiWho": {
+        "name": "WikiWho",
+        "homepage": "",
+        "deployed on": "VPS",
+        "views": null,
+        "maintained by": "Community Tech"
+    },
+    "Who Wrote That?": {
+        "name": "Who Wrote That?",
+        "homepage": "https://www.mediawiki.org/wiki/Who_Wrote_That%3F",
+        "deployed on": "Browser Extension",
+        "views": null,
+        "maintained by": "Community Tech"
+    },
+    "Watchlist Expiry": {
+        "name": "Watchlist Expiry",
+        "homepage": "https://meta.wikimedia.org/wiki/Community_Tech/Watchlist_Expiry",
+        "deployed on": "Production",
+        "views": null,
+        "maintained by": "Community Tech"
+    },
+    "Wikimedia OCR": {
+        "name": "Wikimedia OCR",
+        "homepage": "https://ocr.wmcloud.org/",
+        "deployed on": "VPS",
+        "views": null,
+        "maintained by": "Community Tech"
+    },
+    "Realtime Preview": {
+        "name": "Realtime Preview",
+        "homepage": "https://meta.wikimedia.org/wiki/Community_Wishlist_Survey_2021/Real_Time_Preview_for_Wikitext",
+        "deployed on": "Production",
+        "views": null,
+        "maintained by": "Community Tech"
+    }
+}
