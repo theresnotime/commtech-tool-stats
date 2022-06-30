@@ -6,5 +6,9 @@
     "SVG Translate": {
         "api": "https://toolviews.toolforge.org/api/v1/tool/svgtranslate/daily/2021-01-01/2022-01-01",
         "total": 166853
+    },
+    "XTools": {
+        "api": "https://xtools.wmflabs.org/meta/2021-01-01/2022-01-01",
+        "total": 4049710
     }
 }
